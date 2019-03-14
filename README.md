@@ -1,7 +1,8 @@
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://nbviewer.jupyter.org/github/Rish001/Connecting-the-dots/blob/master/A23.ipynb) to maintain and preview the content for your website in Markdown files.
-
+$$ x + y = \sqrt{2} $$
+![bbvi](Connecting-the-dots/bbvi.jpg)
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
