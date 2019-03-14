@@ -2,7 +2,7 @@
 
 You can use the [editor on GitHub](https://nbviewer.jupyter.org/github/Rish001/Connecting-the-dots/blob/master/A23.ipynb) to maintain and preview the content for your website in Markdown files.
 $$ x + y = \sqrt{2} $$
-![pic](https://github.com/Rish001/Connecting-the-dots/blob/master/bbvi.jpeg)
+![pic](https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Tetrahedron.png/800px-Tetrahedron.png)
       
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
