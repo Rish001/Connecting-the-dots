@@ -1,6 +1,6 @@
 ## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://hub.mybinder.org/user/rish001-connecting-the-dots-goj6rqoz/notebooks/A23.ipynb) to maintain and preview the content for your website in Markdown files.
+You can use the [editor on GitHub](https://nbviewer.jupyter.org/github/Rish001/Connecting-the-dots/blob/master/A23.ipynb) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
